@@ -1,1 +1,1 @@
-Anu,anupriyakamle27@gmail.com
+example_User_IMAP_server,example@gamil.com_of_whome_we_want_to_send_mail,password_of_user_mail
