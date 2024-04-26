@@ -1,1 +1,1 @@
-smtp.gmail.com,anupriyakamble1998@gmail.com,tcru gxug litw vido,465
+Your_official_mail_smtp_server_detail,Your_official_mail_id,password_of_your_mail,Your_smtp_port_details
